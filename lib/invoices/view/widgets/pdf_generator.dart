@@ -1,6 +1,5 @@
 // ignore_for_file: unused_local_variable, prefer_const_constructors
 
-import 'package:invoice_ondgo/invoices/view/create_invoice.dart';
 import 'package:invoice_ondgo/item/model/item_model.dart';
 import 'package:open_file/open_file.dart';
 import 'package:pdf/pdf.dart';
