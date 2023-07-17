@@ -245,7 +245,7 @@ class GeneratePdf {
 
               pdfWidgets.Column(children: [
                 pdfWidgets.Text(
-                  'Trader Note',
+                  ' Note',
                   style: pdfWidgets.TextStyle(
                     font: ttf,
                     fontSize: 13,
